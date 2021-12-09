@@ -2,6 +2,8 @@
 
 Check the satisfaction's level of CC depending on the type of pizza she received
 
+Problem dmopc16c1p0 from DMOJ
+
 "One summer evening, while curled up with her beloved Cheese-kun plushie, C.C. begins craving pizza. Although she would really like a large, extra-cheesy pizza, her stomach is willing to settle for anything. Without hesitation, she snatches up Lelouch's credit card and makes a very important phone call…
 
 C.C. will be "absolutely" satisfied if the pizza she gets has a width of 3 units and an extra-cheesiness of at least 95%.
